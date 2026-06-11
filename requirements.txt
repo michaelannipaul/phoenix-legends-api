@@ -1,8 +1,7 @@
-fastapi==0.100.0
-uvicorn==0.23.0
-firebase-admin==6.2.0
-python-jose==3.3.0
-passlib==1.7.4
-python-multipart==0.0.6
-pydantic==1.10.13
-httpx==0.24.1
+fastapi
+uvicorn
+firebase-admin
+python-jose
+passlib
+python-multipart
+httpx
